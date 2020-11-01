@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/assignment_2/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/assignment_2/static/js/main.10cda658.chunk.js",
-    "main.js.map": "/assignment_2/static/js/main.10cda658.chunk.js.map",
-    "runtime-main.js": "/assignment_2/static/js/runtime-main.37621fe3.js",
-    "runtime-main.js.map": "/assignment_2/static/js/runtime-main.37621fe3.js.map",
-    "static/js/2.c0a0a7e2.chunk.js": "/assignment_2/static/js/2.c0a0a7e2.chunk.js",
-    "static/js/2.c0a0a7e2.chunk.js.map": "/assignment_2/static/js/2.c0a0a7e2.chunk.js.map",
-    "static/js/3.c7b4a981.chunk.js": "/assignment_2/static/js/3.c7b4a981.chunk.js",
-    "static/js/3.c7b4a981.chunk.js.map": "/assignment_2/static/js/3.c7b4a981.chunk.js.map",
-    "index.html": "/assignment_2/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/assignment_2/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.c0a0a7e2.chunk.js.LICENSE.txt": "/assignment_2/static/js/2.c0a0a7e2.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/assignment_2/static/media/logo.103b5fa1.svg"
+    "main.css": "/react-app/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/react-app/static/js/main.10cda658.chunk.js",
+    "main.js.map": "/react-app/static/js/main.10cda658.chunk.js.map",
+    "runtime-main.js": "/react-app/static/js/runtime-main.0a8fabec.js",
+    "runtime-main.js.map": "/react-app/static/js/runtime-main.0a8fabec.js.map",
+    "static/js/2.c0a0a7e2.chunk.js": "/react-app/static/js/2.c0a0a7e2.chunk.js",
+    "static/js/2.c0a0a7e2.chunk.js.map": "/react-app/static/js/2.c0a0a7e2.chunk.js.map",
+    "static/js/3.c7b4a981.chunk.js": "/react-app/static/js/3.c7b4a981.chunk.js",
+    "static/js/3.c7b4a981.chunk.js.map": "/react-app/static/js/3.c7b4a981.chunk.js.map",
+    "index.html": "/react-app/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/react-app/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.c0a0a7e2.chunk.js.LICENSE.txt": "/react-app/static/js/2.c0a0a7e2.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/react-app/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.37621fe3.js",
+    "static/js/runtime-main.0a8fabec.js",
     "static/js/2.c0a0a7e2.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
     "static/js/main.10cda658.chunk.js"
